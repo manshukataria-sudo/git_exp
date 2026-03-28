@@ -3,6 +3,7 @@ Use the command => git init
 
 
 Firstly all files are untracked to make them staged use the command
+we verify the changes in the staged area before commiting carefully
 git add <path>
 
 
