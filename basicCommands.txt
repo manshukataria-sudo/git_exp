@@ -1,0 +1,17 @@
+Making any folder a git repository
+Use the command => git init
+
+
+Firstly all files are untracked to make them staged use the command
+git add <path>
+
+
+Use the command 
+git status
+we can also use the command => git status -s , for more precision
+to check if the files are untracked or in the staged area
+
+
+
+To make the file untracked use the command
+git rm --cached <path>
