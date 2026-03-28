@@ -15,3 +15,7 @@ to check if the files are untracked or in the staged area
 
 To make the file untracked use the command
 git rm --cached <path>
+
+
+To see the commit history use the command
+git log
