@@ -36,3 +36,8 @@ are added to the new branch also.
 
 To see the graph of commits use the command
 git log --graph
+
+
+To delete a git branch use the command, to delete branch should not be checked out
+means we should be on anyother branch
+git branch --delete <branchName>
