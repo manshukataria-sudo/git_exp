@@ -26,3 +26,9 @@ To see all the commits from all branches use the command
 git log --all
 and in one line use the command
 git log --all --oneline
+
+
+
+
+Whenever a new branch is created, all the commits of the branch from which a new branch is created 
+are added to the new branch also.
