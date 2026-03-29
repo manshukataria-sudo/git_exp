@@ -1,0 +1,8 @@
+To see the all branches use the command
+git branch
+
+To create the new branch use the command
+git branch <newName>
+
+To switch to other branch use the command
+git checkout <branchName>
