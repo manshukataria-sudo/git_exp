@@ -20,3 +20,9 @@ git rm --cached <path>
 
 To see the commit history use the command
 git log
+
+
+To see all the commits from all branches use the command
+git log --all
+and in one line use the command
+git log --all --oneline
