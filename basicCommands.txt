@@ -23,5 +23,29 @@ git log
 
 
 
+
 To merge the branches use the command
 git merge <branchName>, current checked out branch merges with the <branchName>
+
+
+
+To see all the commits from all branches use the command
+git log --all
+and in one line use the command
+git log --all --oneline
+
+
+
+
+Whenever a new branch is created, all the commits of the branch from which a new branch is created 
+are added to the new branch also.
+
+
+To see the graph of commits use the command
+git log --graph
+
+
+To delete a git branch use the command, to delete branch should not be checked out
+means we should be on anyother branch
+git branch --delete <branchName>
+
