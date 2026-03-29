@@ -20,3 +20,8 @@ git rm --cached <path>
 
 To see the commit history use the command
 git log
+
+
+
+To merge the branches use the command
+git merge <branchName>, current checked out branch merges with the <branchName>
