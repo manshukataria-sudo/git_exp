@@ -1,2 +1,10 @@
 To check if the repo is connected online or not use the command
 git remote show origin
+
+
+github uses the master as the main branch
+use the command 
+git branch -M main
+
+
+origin/main represents the code stored on remote repo till the branch
