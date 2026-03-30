@@ -1,0 +1,26 @@
+To check if the repo is connected online or not use the command
+git remote show origin
+
+
+github uses the master as the main branch
+use the command 
+git branch -M main
+
+
+origin/main represents the code stored on remote repo till the branch
+
+
+Use the command to push the branch on remote github
+git push -u origin <branchName> for the first time 
+after that we can use the "git push" only for origin of the same branch
+
+
+Fast forward merge i.e poiter of contact branch just moved to the main branch
+
+
+Adding contributor in the git repo
+Using the command git clone <href>
+
+If some other user have committed in git repo, to update our code to latest, use the command
+git pull 
+it fetches and merge with the current local branch to make our code up todate
