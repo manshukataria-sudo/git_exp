@@ -1,0 +1,2 @@
+To check if the repo is connected online or not use the command
+git remote show origin
